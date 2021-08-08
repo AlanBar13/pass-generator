@@ -1,0 +1,5 @@
+package passgenerator
+
+func main() {
+
+}
